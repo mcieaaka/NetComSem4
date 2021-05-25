@@ -2,6 +2,8 @@
     "files.associations": {
         "assignment2.C": "cpp",
         "hamming.C": "cpp",
-        "time.h": "c"
+        "time.h": "c",
+        "in.h": "c",
+        "string.h": "c"
     }
 }
